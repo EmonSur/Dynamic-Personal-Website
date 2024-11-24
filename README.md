@@ -2,6 +2,8 @@
 
 Welcome to the **Hometown Dynamic Website** repository! This project is a dynamic, responsive website created to showcase the rich history, natural beauty, and cultural essence of my hometown. It serves as a digital guide for visitors and locals alike to explore and learn more about the town's unique features.
 
+---
+
 ## 🌟 Features
 
 - **Hometown Overview**:
@@ -14,11 +16,15 @@ Welcome to the **Hometown Dynamic Website** repository! This project is a dynami
 - **Custom Fonts and Favicon**:
   - Utilizes carefully chosen fonts and a custom favicon for a polished look.
 
+---
+
 ## 🛠️ Technologies Used
 
 - **HTML5**: For creating structured and semantic web pages.
 - **CSS3**: For styling, layout design, and responsive features.
 - **Custom Fonts**: Includes Montserrat and Playfair Display for enhanced typography.
+
+---
 
 ## 📂 Folder Structure
 
@@ -35,11 +41,17 @@ Welcome to the **Hometown Dynamic Website** repository! This project is a dynami
 └── README.md                         # This README file
 
 ````
+---
 
 ## Screenshots
 
-![Homepage](![image](https://github.com/user-attachments/assets/2f9d4c9a-5212-458d-8b10-0134bc0d4a88))
-![History Page](![image](https://github.com/user-attachments/assets/0e55552e-d3f9-4f57-8c70-86654ef99d51))
-![National Park](![image](https://github.com/user-attachments/assets/0686d0d2-e1bc-49de-a464-b93f26ebc8e1))
+### Homepage
+![Homepage](Screenshots/homepage_screenshot.png)
+
+### History Page
+![History Page](Screenshots/history_screenshot.png)
+
+### Nature Page
+![Nature Page](Screenshots/national_park_screenshot.png)
 
 
