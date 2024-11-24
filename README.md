@@ -34,6 +34,8 @@ Welcome to the **Hometown Dynamic Website** repository! This project is a dynami
 ├── styles.css                        # Main CSS file for styling
 └── README.md                         # This README file
 
+````
+
 ## Screenshots
 
 ![Homepage](![image](https://github.com/user-attachments/assets/2f9d4c9a-5212-458d-8b10-0134bc0d4a88))
