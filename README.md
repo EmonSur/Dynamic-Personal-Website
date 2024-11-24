@@ -1,29 +1,35 @@
-# Dynamic Personal Website
+# Hometown Dynamic Website
 
-Welcome to my **Dynamic Personal Website** repository! This project showcases a responsive and dynamic web design to present personal information, skills, projects, and contact details. The website is built using **HTML** and **CSS**, ensuring accessibility and usability across various devices and screen sizes.
+Welcome to the **Hometown Dynamic Website** repository! This project is a dynamic, responsive website created to showcase the rich history, natural beauty, and cultural essence of my hometown. It serves as a digital guide for visitors and locals alike to explore and learn more about the town's unique features.
 
 ## 🌟 Features
 
-- **Responsive Design**: The layout adapts seamlessly to desktops, tablets, and mobile devices.
-- **Dynamic Styling**: Use of CSS variables for customizable themes.
-- **Intuitive Navigation**: A clean and easy-to-use menu for seamless user experience.
-- **Interactive Sections**:
-  - Home: Brief introduction and personal branding.
-  - About Me: Summary of skills, education, and interests.
-  - Projects: Portfolio of projects with links and descriptions.
-  - Contact: Easy-to-use form for visitors to get in touch.
+- **Hometown Overview**:
+  - Information about the town's history, landmarks, and natural attractions.
+- **Detailed Pages**:
+  - **History**: A deep dive into the historical significance of the town.
+  - **Nature**: Highlights of the stunning landscapes and natural parks, including Killarney National Park.
+- **Responsive Design**:
+  - Optimized for viewing on desktops, tablets, and mobile devices.
+- **Custom Fonts and Favicon**:
+  - Utilizes carefully chosen fonts and a custom favicon for a polished look.
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Structuring content with semantic elements.
-- **CSS3**: Designing and styling for aesthetics and responsiveness.
+- **HTML5**: For creating structured and semantic web pages.
+- **CSS3**: For styling, layout design, and responsive features.
+- **Custom Fonts**: Includes Montserrat and Playfair Display for enhanced typography.
 
 ## 📂 Folder Structure
 
 ```plaintext
 .
-├── index.html       # Main HTML file for the website
-├── /assets          # Folder for images, icons, and other assets
-├── /styles          # Contains all CSS files
-│   └── styles.css   # Primary CSS file for website styling
-└── /scripts         # For potential JavaScript files (if needed in future)
+├── images/                           # Contains images used in the website
+├── Montserrat-VariableFont_wght.ttf  # Font for modern and clean design
+├── PlayfairDisplay-VariableFont_wght.ttf # Font for elegant headlines
+├── favicon.ico                       # Custom favicon for the website
+├── history_of_killarney.html         # Page about the town's history
+├── killarney_national_park.html      # Page about the national park
+├── index.html                        # Home page of the website
+├── styles.css                        # Main CSS file for styling
+└── README.md                         # This README file
